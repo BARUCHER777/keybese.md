@@ -1,4 +1,4 @@
-# keybese.md
+# keybase.md
 KeyBase
 ### Keybase proof
 
